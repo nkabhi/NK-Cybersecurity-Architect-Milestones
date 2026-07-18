@@ -1,0 +1,23 @@
+# Chain of Custody
+
+**Domain:** Digital Forensics (15)
+
+## Overview
+_Add a short description of what Chain of Custody covers and why it matters for a cybersecurity architect._
+
+## Status
+- [ ] Not started
+- [ ] In progress
+- [ ] Completed
+
+## Learning notes
+-
+
+## Key resources
+-
+
+## Hands-on / labs
+-
+
+## Related topics
+-
